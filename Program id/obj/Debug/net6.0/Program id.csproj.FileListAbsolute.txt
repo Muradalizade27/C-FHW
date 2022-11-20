@@ -1,0 +1,5 @@
+C:\Users\Casper\source\repos\Program id\Program id\obj\Debug\net6.0\Program id.csproj.AssemblyReference.cache
+C:\Users\Casper\source\repos\Program id\Program id\obj\Debug\net6.0\Program id.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casper\source\repos\Program id\Program id\obj\Debug\net6.0\Program id.AssemblyInfoInputs.cache
+C:\Users\Casper\source\repos\Program id\Program id\obj\Debug\net6.0\Program id.AssemblyInfo.cs
+C:\Users\Casper\source\repos\Program id\Program id\obj\Debug\net6.0\Program id.csproj.CoreCompileInputs.cache
